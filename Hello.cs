@@ -11,6 +11,7 @@ namespace kidsvaja
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Hello, GitHub!");
             System.Console.WriteLine("Hello, Local!");
         }
     }
